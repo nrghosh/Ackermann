@@ -1,4 +1,4 @@
-; This file provides the following useful functions for your program:
+; This file provides the following useful functions for the program:
 ;    read_int - read a decimal number from stdin, return it in eax
 ;    print_int - take a dword value on the stack, convert to decimal and display on stdout
 ;    print_newline - print a newline character to stdout
