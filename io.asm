@@ -1,3 +1,4 @@
+; Courtesey of Professor Jeff Epstein
 ; This file provides the following useful functions for the program:
 ;    read_int - read a decimal number from stdin, return it in eax
 ;    print_int - take a dword value on the stack, convert to decimal and display on stdout
