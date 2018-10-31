@@ -1,5 +1,4 @@
 ; Nikhil Ghosh
-; Comp 331 Homework 9 | Prof Epstein
 
 ; Compile like this:
 ;     nasm -f elf -gstabs ack.asm && ld -o ack -m elf_i386 ack.o
